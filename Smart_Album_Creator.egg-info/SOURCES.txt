@@ -1,0 +1,12 @@
+README
+setup.py
+Smart_Album_Creator.egg-info/PKG-INFO
+Smart_Album_Creator.egg-info/SOURCES.txt
+Smart_Album_Creator.egg-info/dependency_links.txt
+Smart_Album_Creator.egg-info/top_level.txt
+snaptest/__init__.py
+snaptest/settings.py
+snaptest/setup.py
+snaptest/urls.py
+snaptest/views.py
+snaptest/wsgi.py
